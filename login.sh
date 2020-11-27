@@ -1,0 +1,1 @@
+ssh -i '/Users/AndrewSong/hr/FEC/reservation-proxy/fecProxy.pem' ubuntu@ec2-54-187-14-183.us-west-2.compute.amazonaws.com
