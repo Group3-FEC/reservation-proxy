@@ -1,0 +1,32 @@
+body {
+    display: flex;
+    flex-direction: column;
+}
+
+#service1,
+#service2,
+#service3,
+#service4,
+#service5 {
+    margin: 20px auto;
+}
+
+#service1 {
+    margin-left: 30px;
+}
+
+#service2 {
+    padding-left: 50px;
+}
+
+#service3 {
+    padding-left: 260px;
+}
+
+#service4 {
+    padding-left: 600px;
+}
+
+#service5 {
+    padding-left: 600px;
+}
