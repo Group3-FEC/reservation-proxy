@@ -3,30 +3,33 @@ body {
     flex-direction: column;
 }
 
-#service1,
-#service2,
-#service3,
-#service4,
-#service5 {
-    margin: 20px auto;
+#navbar {
+    width: 1;
+    height: 150px;
 }
 
-#service1 {
-    margin-left: 30px;
+#service1,
+#service4,
+#service5 {
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
 }
 
 #service2 {
-    padding-left: 50px;
+    margin-left: 493px;
 }
 
 #service3 {
-    padding-left: 260px;
+    margin-left: 493px;
 }
 
-#service4 {
-    padding-left: 600px;
+#servic4 {
+    margin-bottom: 40px;
 }
 
-#service5 {
-    padding-left: 600px;
+.reservation {
+    position: absolute;
+    top: 900px;
+    left: 1200px;
 }
