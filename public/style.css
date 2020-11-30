@@ -4,24 +4,22 @@ body {
 }
 
 #navbar {
-    width: 1;
-    height: 150px;
+    margin-top: 10px;
+    width: 1400px;
+    height: 100px;
 }
 
 #service1,
-#service4,
 #service5 {
     margin-top: 20px;
     display: flex;
     justify-content: center;
 }
 
-#service2 {
-    margin-left: 493px;
-}
-
-#service3 {
-    margin-left: 493px;
+#service2,
+#service3,
+.mainView {
+    margin-left: 140px;
 }
 
 #servic4 {
@@ -31,5 +29,5 @@ body {
 .reservation {
     position: absolute;
     top: 900px;
-    left: 1200px;
+    left: 867px;
 }
